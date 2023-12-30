@@ -1,5 +1,3 @@
-#Admin Dashboard
-![admin](https://user-images.githubusercontent.com/61811493/232769323-597dc6c0-59a0-4dad-9db7-5be11ad66078.PNG)
 
 
 
